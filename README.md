@@ -5,7 +5,9 @@
 - googleアカウントの作成（すでにある場合はそれで良いです）
 - vscodeのインストール
 - githubアカウントの作成
+- gitのインストール
 - https://github.com/season-three に参加すること
+- ブログリポジトリの作成
 
 ## スケジュール
 
